@@ -1,0 +1,20 @@
+  websites 
+     
+     1. font awesome = used for icons
+       
+       first we need to link font awesome with index.html
+       file by adding the following code in head section of html
+
+       by using CDNjs( contact deleviry network)
+       link : https://cdnjs.com/libraries/font-awesome
+       and then we select a link and we linked with html code
+        
+          e.g 
+
+    now we are able to use icons by taking it from font awesome
+    and by copy-pasting 
+
+
+    1 step : Create navbar
+      1 border:border-box properti
+    
