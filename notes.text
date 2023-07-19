@@ -17,4 +17,8 @@
 
     1 step : Create navbar
       1 border:border-box properti
-    
+      2 font-weight property
+      3 new selector property E.g we can now write nav-cart i which
+      means we are only using i '
+
+         
