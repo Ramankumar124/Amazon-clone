@@ -126,6 +126,7 @@ span{
     }
  .panel-optn p{
     display: inline;
+    margin-left: 15px;
     
  }
  .panel-optn{
@@ -137,3 +138,36 @@ span{
     font-weight: 700;
 
  }
+   /* panel-all adusting */
+ .panel-all{
+    margin-left: -40px;
+ }
+      /* ******* Hero section ******** */
+
+      .hero-section{
+        height: 380px;
+        background-size: cover;
+        background-image:url(images/images/hero_image.jpg);
+        display: flex;
+        justify-content: center;
+        align-items: flex-end;
+
+      }
+.hero-message{
+    background-color: white;
+    color: black;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.85rem;
+    width: 80%;
+    margin-bottom: 30px;
+}
+.hero-message a {
+    color:#007185 ;
+}
+.box{
+    border: 2px solid black;
+    height: 100px;
+}
