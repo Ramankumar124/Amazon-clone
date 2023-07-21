@@ -214,3 +214,50 @@ footer{
  font-size: 0.85rem;
 
 }
+.foot-panel2{
+    background-color:#222f3d;
+    color: white;
+    height: 400px;
+    display: flex;
+    justify-content: space-evenly;
+    
+    
+}
+ul {
+    margin-top:20px ;
+}
+ul a {
+    display: block;
+    font-size: 0.85rem;
+    margin-top: 10px; 
+    color: #dddddd;
+}
+.foot-panel3{
+   
+    background-color: #222f3d;
+    border-top: 0.5px solid white;
+    color: white;
+    height: 68px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo{
+    background-image:url(images/images/amazon_logo.png);
+    height: 50px;
+    width: 100px;
+    background-size:cover; 
+    margin-right: 60px;
+}
+.buttons{
+    width: 113px;
+    height: 33px;
+    border: grey solid 1.5px;
+    border-radius: 3px;
+    display: flex;
+   align-items: center;
+   justify-content: center;
+   color: #cccccc;
+   margin-left :6px; 
+   font-size: 15px;
+}
